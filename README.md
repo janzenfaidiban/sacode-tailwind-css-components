@@ -38,4 +38,4 @@ Seperti ini
 
 Desain section header
 
-<img src="./screenshots/header.png">
+<img src="./_screenshots/header.png">
