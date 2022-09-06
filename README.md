@@ -45,7 +45,7 @@ Cara mudah menginstal atau mengintegrasi tailwind yaitu menggunakan link CDN ```
 ⌛Logo Clouds <br>
 
 ## Elements
-Header ✅ <br>
+✅Header <br>
 ⌛Banner <br>
 ⌛Flyout Menus <br>
 
