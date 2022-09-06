@@ -28,29 +28,29 @@ Cara mudah menginstal atau mengintegrasi tailwind yaitu menggunakan link CDN ```
 
 ## Page Sections
 
-Hero Sections ⌛<br>
-Feature Sections ⌛<br>
-CTA Sections ⌛<br>
-Pricing Sections ⌛<br>
-Header Sections ⌛<br>
-FAQs Sections ⌛<br>
-Newsletter Sections ⌛<br>
-Stats Sections ⌛<br>
-Testimonials Sections ⌛<br>
-Blog Sections ⌛<br>
-Contact Sections ⌛<br>
-Team Sections ⌛<br>
-Content Sections ⌛<br>
-Footers Sections ⌛<br>
-Logo Clouds ⌛<br>
+⌛Hero Sections <br>
+⌛Feature Sections <br>
+⌛CTA Sections <br>
+⌛Pricing Sections <br>
+⌛Header Sections <br>
+⌛FAQs Sections <br>
+⌛Newsletter Sections <br>
+⌛Stats Sections <br>
+⌛Testimonials Sections <br>
+⌛Blog Sections <br>
+⌛Contact Sections <br>
+⌛Team Sections <br>
+⌛Content Sections <br>
+⌛Footers Sections <br>
+⌛Logo Clouds <br>
 
 ## Elements
 Header ✅ <br>
-Banner ⌛<br>
-Flyout Menus ⌛<br>
+⌛Banner <br>
+⌛Flyout Menus <br>
 
 ## Feedback
-404 Pages ⌛<br>
+⌛404 Pages <br>
 
 
 ## Header
