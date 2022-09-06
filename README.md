@@ -8,14 +8,7 @@ Dokumentasi bisa cek di (https://tailwindcss.com/docs/){https://tailwindcss.com/
 
 ## Installation
 
-Cara mudah menginstal atau mengintegrasi tailwind yaitu menggunakan link CDN
-```html
-<script src="https://cdn.tailwindcss.com"></script>
-```
-
-Tempatkan di atara tag ```<head>...</head>```
-
-Seperti ini
+Cara mudah menginstal atau mengintegrasi tailwind yaitu menggunakan link CDN ```<script src="https://cdn.tailwindcss.com"></script>``` yang ditempatkan di atara tag ```<head>...</head>``` 
 
 ```html
 <!doctype html>
